@@ -1,0 +1,12 @@
+.Cont input {
+    font-size: 1.4rem;
+}
+
+.Cont button {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #4040af;
+    color: #fff;
+    font-size: 1.4rem;
+}
